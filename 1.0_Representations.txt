@@ -1,0 +1,41 @@
+- Development of Sciences: A Reverse Order
+first the heavens, next the earth, then animal and vegetable life, then the human body, and last of all (as yet very imperfectly) the human mind.”
+(Page 1, Friedenberg Cognitive Science). 
+- Cognitive Science's perspective -> Information Processing
+- Mind -> An Information Processor
+
+- Four Fundamental Representations in Cognitive Science:
+    ○ Words
+    ○ Concepts
+    ○ Propositions
+    ○ Analogies
+    
+- Four Crucial Aspects of any Representations:
+    ○ Representation Bearer -> Realize a Representation
+    ○ Content -> Representation must stand for one or more objects
+        § Referents -> Represent external world
+    ○ Grounded ->  Relate Representation and Referents
+    ○ Interpretable
+    
+- Representations are symbolic. Ex: Seeing $ sign means money
+- Mental Representations are complex and for some rules, these can be symbolic. 
+- For ex: Driving a car needs us to use the clutch. The symbol here may be an image of clutch that our brain interprets as a representation for the rule.
+
+- Human mental representations are Semantic (have meaning). -> Linguistics
+- Meaning of a Relationship -> Intentionality -> What it is about
+- Intentionality means “directed upon an object.” (Page 4, Friedenberg Cognitive Science). 
+
+- Characteristics of Intentionality
+    ○ Isomorphism -> Similarity between Representation and Referent
+        § A visual image of a cruise ship, for instance, would have greater horizontal than vertical extent because these boats are much longer than they are tall. The researcher Stephen Kosslyn has shown that it takes longer to “scan” a visual image across a dimension where distances between points in the object are greater and relatively less time across a dimension where such distances are shorter. (Page 5, Friedenberg Cognitive Science).
+    ○ Appropriate Causal Relation -> The relation between Input and Output
+        § For example, if your friend Sally told you about a cruise she took around the Caribbean last December, an image of a cruise ship would probably pop to mind. This might then cause you to ask her if the food on board was good. Sally’s mention of the cruise was the stimulus input that activated the internal representation of the ship in your mind. Once it was activated, it caused the behavior of asking about the food. (Page 5, 6, Friedenberg Cognitive Science). 
+
+- The Dual-Coding Hypothesis
+    ○ The use of both digital/symbolic and image representations collectively has been referred to as the dual-code hypothesis (Paivio, 1971). (Page 7, Friedenberg Cognitive Science). 
+
+- Propositions
+    ○ According to the propositional hypothesis, mental representations take the form of abstract sentence-like structures. Propositions are good at capturing the relationships between concepts. (Page 8, Friedenberg Cognitive Science).
+    ○ Propositions are best denoted by Predicate Calculus
+        § The proposition “Mary looked at John” can be represented by a predicate calculus such as: 
+[Relationship between elements] ([Subject element], [Object element])
